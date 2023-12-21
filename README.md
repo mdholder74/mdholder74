@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **holdermoe@gmail.com**
 
-- ⚡ Fun fact **Last year I traveled to Costa Rica to learn Spanish.**
+- ⚡ Fun fact **Self-taught Spanish speaker.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
