@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web Development and Algorithms**
 
-- 💬 Ask me about **C++ and Python**
+- 💬 Ask me about **C++ and JavaScript**
 
 - 📫 How to reach me **mdholder74@gmail.com**
 
