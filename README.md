@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **A Drink Game for a Mixologist**
 
-- 🌱 I’m currently learning **Web Development and Algorithms**
+- 🌱 I’m currently learning **Web Development and SQL**
 
 - 💬 Ask me about **C++ and JavaScript**
 
