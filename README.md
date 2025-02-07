@@ -2,9 +2,9 @@
 <h3 align="center">Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/Q1Gwx9oIV8MAAAAC/tag.gif">
 
-- 🔭 I’m currently working on **A Commerce Website/App to buy Collectibles**
+- 🔭 I’m currently working on **NFL Trivia with your own NFL Anaylst as your player**
 
-- 🌱 I’m currently learning **React, MongoDB, Firebase**
+- 🌱 I’m currently learning **Java, AI, React **
 
 - 💬 Ask me about **C++ and JavaScript**
 
