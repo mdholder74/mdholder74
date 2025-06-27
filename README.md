@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **NFL Trivia with your own NFL Anaylst**
 
-- 🌱 I’m currently learning **Java, AI, React **
+- 🌱 I’m currently learning **Java, AI, React, Angular, C#**
 
-- 💬 Ask me about **C++ and JavaScript**
+- 💬 Ask me about **The Backend**
 
 - 📫 How to reach me **mdholder74@gmail.com**
 
-- ⚡ Fun fact **Self-taught Spanish speaker.**
+- ⚡ Fun fact **Im open for work LOL.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
