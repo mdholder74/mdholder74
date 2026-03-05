@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **mdholder74@gmail.com**
 
-- ⚡ Fun fact **Im open for work LOL.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
